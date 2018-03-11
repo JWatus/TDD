@@ -1,0 +1,1 @@
+This repository contains issues related to the topic od TDD and also few interview tasks.
